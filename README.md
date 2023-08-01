@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryusei</h1>
-<h3 align="center">I am looking to become a full stack engineer.</h3>
+<h3 align="center">I am looking to become a full stack engineer. And from Japan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryusei-48&label=Profile%20views&color=0e75b6&style=flat" alt="ryusei-48" /> </p>
 
